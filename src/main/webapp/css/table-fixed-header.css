@@ -1,0 +1,12 @@
+table {
+    word-wrap: break-word;
+}
+table .header-fixed {
+    position: fixed;
+    top: 50px;
+    z-index: 1020;
+
+}
+thead {
+    background-color: #eaeaea;
+}
